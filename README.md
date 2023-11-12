@@ -25,7 +25,7 @@
 * test_main.py
 * GitHub Actions
 
-### Preparation
+### Key Steps
 To set up your environment and data pipeline on Azure Databricks, follow these steps:
 1. Initialize a Databricks workspace within Azure.
 2. In the Databricks Workspace, go to user settings and link your GitHub account by navigating to 'Linked Accounts'
@@ -37,7 +37,7 @@ To set up your environment and data pipeline on Azure Databricks, follow these s
    * A transformation and loading task using `transform_load.py` in the `mylib` directory
    * A task for running queries and generating visualizations with `query_viz.py` from the `mylib` folder
 
-### Key Steps in Pipeline
+### Databricks Pipeline
 1. **Data Extraction**
    * Utilizes the `requests` library to retrive the wages data from the URLs listed above
    * Downloads and stores the data in Databricks FileStore
@@ -55,7 +55,6 @@ To set up your environment and data pipeline on Azure Databricks, follow these s
 6. **Automated trigger via Git Push**
    * If a user pushes this repo, a new pipeline run will automatically be initiated
 
-### Databricks ETL Pipeline
 <img width="679" alt="Screenshot 2023-11-12 at 3 08 03 PM" src="https://github.com/nogibjj/Jaxon-Yue-Mini-Project-11/assets/70416390/56bb2007-0803-4003-bcdc-b7f219b4db84">
 
 ### Data Visualizations and Recommendation
