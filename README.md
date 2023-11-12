@@ -1,6 +1,8 @@
 # IDS 706 Individual Project 3 [![CI](https://github.com/nogibjj/Jaxon-Yue-Individual-Project-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-Individual-Project-3/actions/workflows/cicd.yml)
 ### Overview
-* This repository includes the components for **Individual Project 3: Databricks ETL Pipeline**
+* This repository includes the components for Individual Project 3: Databricks ETL Pipeline
+
+Demo Video
 
 ### Goals
 * Create a data ETL pipeline using Databricks
