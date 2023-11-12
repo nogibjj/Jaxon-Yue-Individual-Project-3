@@ -1,4 +1,4 @@
-# IDS 706 Individual Project 3
+# IDS 706 Individual Project 3 [![CI](https://github.com/nogibjj/Jaxon-Yue-Individual-Project-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-Individual-Project-3/actions/workflows/cicd.yml)
 ### Overview
 * This repository includes the components for Mini-Project 6 - Complex SQL Query for a MySQL Database.
 
