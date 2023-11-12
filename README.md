@@ -3,6 +3,7 @@
 * This repository includes the components for Individual Project 3: Databricks ETL Pipeline
 
 Demo Video
+https://www.youtube.com/watch?v=nnG6vnRNmh4
 
 ### Goals
 * Create a data ETL pipeline using Databricks
@@ -28,7 +29,6 @@ Demo Video
 * GitHub Actions
 
 ### Key Steps
-To set up your environment and data pipeline on Azure Databricks, follow these steps:
 1. Initialize a Databricks workspace within Azure.
 2. In the Databricks Workspace, go to user settings and link your GitHub account by navigating to 'Linked Accounts'
 3. Set up a global initialization script through the 'Admin Settings'. Here, define environment variables such as `SERVER_HOSTNAME` and `ACCESS_TOKEN`
@@ -43,7 +43,6 @@ To set up your environment and data pipeline on Azure Databricks, follow these s
 1. **Data Extraction**
    * Utilizes the `requests` library to retrive the wages data from the URLs listed above
    * Downloads and stores the data in Databricks FileStore
-   * Includes respective data validation checks to ensure the quality of the data
 2. **Databricks Environment Setup**
    * Establishes a connection to Databricks using respective environment variables (`SERVER_HOSTNAME` and `ACCESS_TOKEN`)
 3. **Data Transformation and Load**
