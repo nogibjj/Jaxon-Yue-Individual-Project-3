@@ -60,6 +60,9 @@ To set up your environment and data pipeline on Azure Databricks, follow these s
 
 ### Data Visualizations and Recommendation
 <img width="623" alt="Screenshot 2023-11-12 at 12 39 31 AM" src="https://github.com/nogibjj/Jaxon-Yue-Mini-Project-11/assets/70416390/5ac4f9d3-57d2-4e43-a2f5-8801caabe8f7">
+
 Oceania has the highest average wages, followed by North America, Europe, Asia and South America. Management should consider this when making decisions about business expansion, resource allocation, or market entry. They could investigate the underlying reasons for these disparities, such as differences in cost of living, labor laws, and economic development, to better tailor their strategies to each region.
+
 <img width="654" alt="Screenshot 2023-11-12 at 12 39 41 AM" src="https://github.com/nogibjj/Jaxon-Yue-Mini-Project-11/assets/70416390/5b6cbcae-e068-4470-828c-1da6d5d68a2e">
+
 This graph shows a significant increase in wages for the US compared to a moderate rise for the UK and a relatively flat trend for Japan. An actionable recommendation would be to analyze the factors contributing to the wage growth in the US, such as economic policies, industry growth, or inflation rates. Management can explore these factors to understand how they might be replicated or adapted to other regions to foster wage growth.
